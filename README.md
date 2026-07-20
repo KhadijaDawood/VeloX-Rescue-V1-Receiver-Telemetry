@@ -12,7 +12,7 @@ An advanced, non-blocking airborne receiver firmware and failsafe telemetry node
 
 ## 🔌 Circuit Simulation & Wiring Proof:
 
-![Velo-X-rescue-v1-20260720-154131-0000.png](https://postimg.cc/xXg2b0Zb)
+[![Velo-X-rescue-v1-20260720-154131-0000.png](https://i.postimg.cc/VNPLpvB4/Velo-X-rescue-v1-20260720-154131-0000.png)](https://postimg.cc/xXg2b0Zb)
 
 ## 🚀 Firmware Automation Logic Summary
 
