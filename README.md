@@ -27,3 +27,10 @@ An advanced, non-blocking airborne receiver firmware and failsafe telemetry node
 * **Dynamic Failsafe & Signal Timeout:** Built-in dynamic timing checks trigger an emergency hover mode, visual alert, and high-frequency acoustic beacon within 5000ms of signal loss.
 * **Non-Blocking Execution Loop:** Programmed using `millis()` timing routines to ensure zero delay in processing flight stability vector data from the MPU6050 sensor.
 * **Serial Telemetry Diagnostics:** Full hardware streams and RF state feedback outputted via the Serial Monitor for instant real-time troubleshooting during field testing.
+
+* ### 🌐 System Architecture Navigation
+
+| [🏠 Master System Repo](https://github.com/KhadijaDawood/VeloX-Rescue-V1-System-Glove-Transmitter-Airborne-Drone-Receiver-Framework-) | [🧤 Glove Transmitter Repo](https://github.com/KhadijaDawood/VeloX-Glove-Transmitter-V1) | [🛸 Drone Receiver Telemetry](https://github.com/KhadijaDawood/VeloX-Rescue-V1-Receiver-Telemetry) |
+| :---: | :---: | :---: |
+
+---
