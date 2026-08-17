@@ -14,6 +14,14 @@ An advanced, non-blocking airborne receiver firmware and failsafe telemetry node
 
 [![Velo-X-rescue-v1-20260720-154131-0000.png](https://i.postimg.cc/VNPLpvB4/Velo-X-rescue-v1-20260720-154131-0000.png)](https://postimg.cc/xXg2b0Zb)
 
+## CAD Model Preview 
+[![Screenshot-20260729-195602-display-0-png.png](https://i.postimg.cc/L8rzSC4p/Screenshot-20260729-195602-display-0-png.png)](https://postimg.cc/CRsZH4fP)
+[![Screenshot-20260729-195534-display-0-png.png](https://i.postimg.cc/Y0qFRTRb/Screenshot-20260729-195534-display-0-png.png)](https://postimg.cc/xJhqTxWz)
+[![Screenshot-20260729-195506-display-0-png.png](https://i.postimg.cc/fWBmyTTT/Screenshot-20260729-195506-display-0-png.png)](https://postimg.cc/grLnBpZf)
+[![Screenshot-20260729-195446-display-0-png.png](https://i.postimg.cc/3w5DVk9S/Screenshot-20260729-195446-display-0-png.png)](https://postimg.cc/hXsj7PkT)
+[![Screenshot-20260729-195418-display-0-png.png](https://i.postimg.cc/bJLDZ3Pm/Screenshot-20260729-195418-display-0-png.png)](https://postimg.cc/ZBBKgPCN)
+[![Screenshot-20260729-195329-display-0-png.png](https://i.postimg.cc/597Q17nX/Screenshot-20260729-195329-display-0-png.png)](https://postimg.cc/vDnZtzRy)
+
 ## 🚀 Firmware Automation Logic Summary
 
 * **Dynamic Failsafe & Signal Timeout:** Built-in dynamic timing checks trigger an emergency hover mode, visual alert, and high-frequency acoustic beacon within 5000ms of signal loss.
